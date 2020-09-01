@@ -14,9 +14,9 @@ get experience, find new friends. I have a great desire to develop and learn new
    - EntityFramework
    - ASP.NET
 5. See below
-6. - https://github.com/Aleksan4e3/AppRegistration
-   - https://github.com/Aleksan4e3/OcsicoDotNetTraining
-   - https://github.com/Aleksan4e3/Telega
+6. - [AppRegistration](https://github.com/Aleksan4e3/AppRegistration)
+   - [OcsicoDotNetTraining](https://github.com/Aleksan4e3/OcsicoDotNetTraining)
+   - [Telega](https://github.com/Aleksan4e3/Telega)
 7. * I graduated from BNTU
    * Courses from GeekBrains(basic HTML+CSS, C#, SQL, ASP.NET MVC)
    * Internship in OCSICO(ASP.NET MVC)
