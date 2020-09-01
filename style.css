@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+div.person-info{
+    width: 450px;
+    text-align: left;
+}
+.person-about{
+    font-style: italic;
+}
+ul{
+    font-weight: bold;
+}
+li{
+    font-weight: normal;
+}
